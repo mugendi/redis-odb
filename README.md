@@ -14,8 +14,9 @@
 
  3. Finally, I wanted to have the ability to fetch multiple keys at once and return a well formated *partial* object. Example, for an object like : ```{k1:1, kn:{kn2:{kn3: 300 }}, k3:3, k4:4}```, it would be nice to query for ```['k1','kn.kn2']``` and get an object with only those values. Right?
 
- ## How To
- Install ```npm install -s redis-odb```. Then go ahead and set/get objects.
+
+## How To
+Install ```npm install -s redis-odb```. Then go ahead and set/get objects.
 
 
 ```javazcript
