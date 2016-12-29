@@ -1,6 +1,6 @@
 {
   "name": "redis-odb",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Using redis as an Object Database; an effective way to store and retrieve objects from redis.",
   "main": "index.js",
   "scripts": {
