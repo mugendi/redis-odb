@@ -1,6 +1,6 @@
 {
   "name": "redis-odb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Using redis as an Object Database; an effective way to store and retrieve objects from redis.",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,14 @@
     "async": "^2.1.4",
     "dot-object": "^1.5.4",
     "redis": "^2.6.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mugendi/redis-odb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mugendi/redis-odb/issues"
+  },
+  "homepage": "https://github.com/mugendi/redis-odb#readme"
 }
